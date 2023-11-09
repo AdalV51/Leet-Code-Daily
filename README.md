@@ -8,13 +8,13 @@ LeetCode is a platform for learning and improving coding skills with a focus on 
 
 ## Repository Structure 📁
 
-Each directory within this repository corresponds to a specific challenge, organized by the date on which it was completed. The naming convention is `YYYY-MM-DD_Title-of-Challenge`.
+Each directory within this repository corresponds to a specific challenge, organized inside the `questions` directory by the date on which it was completed. The naming convention is `YYYY-MM-DD_Title-of-Challenge`.
 
-/2023-11-09_Find-Minimum-in-Rotated-Sorted-Array
+/questions/2023-11-09_Count-Number-of-Homogenous-Substrings
 - solution.py
 - README.md
 
-/2023-11-10_Add-Two-Numbers
+/questions/2023-11-10_Add-Two-Numbers
 - solution.py
 - README.md
 ...
@@ -31,10 +31,9 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 
 ## Problem List 📋
 
-Below is a list of solved problems. This list will be updated daily as new solutions are added.
+Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
-- [x] [2023-11-09: Find Minimum in Rotated Sorted Array](/2023-11-09_Find-Minimum-in-Rotated-Sorted-Array)
-- [x] [2023-11-10: Add Two Numbers](/2023-11-10_Add-Two-Numbers)
+- [x] [2023-11-09: Count Number of Homogenous Substrings](/questions/2023-11-09_Count-Number-of-Homogenous-Substrings/)
 - ...
 
 ## License 📄
