@@ -14,7 +14,7 @@ Each directory within this repository corresponds to a specific challenge, organ
 - solution.py
 - README.md
 
-/questions/2023-11-10_Add-Two-Numbers
+/questions/2023-11-10_Restore-the-Array-From-Adjacent-Pairs
 - solution.py
 - README.md
 ...
@@ -34,6 +34,7 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
 - [x] [2023-11-09: Count Number of Homogenous Substrings](/questions/2023-11-09_Count-Number-of-Homogenous-Substrings/)
+- [x] [2023-11-10: Restore the Array From Adjacent Pairs](/questions/2023-11-10_Restore-the-Array-From-Adjacent-Pairs/)
 - ...
 
 ## License 📄
@@ -55,4 +56,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-11-09` 📆
+Last Updated: `2023-11-10` 📆
