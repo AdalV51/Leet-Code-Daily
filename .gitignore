@@ -6,6 +6,5 @@ __pycache__
 venv/
 vscode/
 .vscode
-*.png
 *.toml
 requirements-dev.txt
