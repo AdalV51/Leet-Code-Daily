@@ -36,6 +36,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2023-11-09: Count Number of Homogenous Substrings](/questions/2023-11-09_Count-Number-of-Homogenous-Substrings/)
 - [x] [2023-11-10: Restore the Array From Adjacent Pairs](/questions/2023-11-10_Restore-the-Array-From-Adjacent-Pairs/)
 - [x] [2023-11-11: Design Graph With Shortest Path Calculator](/questions/2023-11-11_Design-Graph-With-Shortest-Path-Calculator/)
+- [x] [2023-11-12: Bus Routes](/questions/2023-11-12_Bus-Routes/)
 - ...
 
 ## License 📄
@@ -57,4 +58,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-11-11` 📆
+Last Updated: `2023-11-12` 📆
