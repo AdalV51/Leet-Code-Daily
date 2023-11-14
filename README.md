@@ -34,6 +34,7 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
 - [x] [2023-11-13: Sort Vowels in a String](/questions/2023-11-13_Sort-Vowels-in-a-String/)
+- [x] [2023-11-14: Unique Length-3 Palindromic Subsequences](/questions/2023-11-14_Unique-Length-3-Palindromic-Subsequences/)
 - ...
 
 ## License 📄
@@ -55,4 +56,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-11-13` 📆
+Last Updated: `2023-11-14` 📆
