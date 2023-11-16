@@ -36,6 +36,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2023-11-13: Sort Vowels in a String](/questions/2023-11-13_Sort-Vowels-in-a-String/)
 - [x] [2023-11-14: Unique Length-3 Palindromic Subsequences](/questions/2023-11-14_Unique-Length-3-Palindromic-Subsequences/)
 - [x] [2023-11-15: Maximum Element After Decreasing and Rearranging](/questions/2023-11-15_Maximum-Element-After-Decreasing-and-Rearranging/)
+- [x] [2023-11-16: Find Unique Binary String](/questions/2023-11-16-Find-Unique-Binary-String/)
 - ...
 
 ## License 📄
@@ -57,4 +58,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-11-15` 📆
+Last Updated: `2023-11-16` 📆
