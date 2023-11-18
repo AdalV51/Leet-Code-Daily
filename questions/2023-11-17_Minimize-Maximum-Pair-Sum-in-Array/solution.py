@@ -1,13 +1,13 @@
 from typing import List
 
+
 class Solution:
     def minPairSum(self, nums: List[int]) -> int:
-
         # Sort nums
         nums.sort()
 
         # Define pointers
-        i, j = 0, len(nums)-1
+        i, j = 0, len(nums) - 1
 
         # Array that will sotre the results
         max_pair_sum = -float("inf")
