@@ -39,6 +39,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2023-11-16: Find Unique Binary String](/questions/2023-11-16_Find-Unique-Binary-String/)
 - [x] [2023-11-17: Minimize Maximum Pair Sum in Array](/questions/2023-11-17_Minimize-Maximum-Pair-Sum-in-Array/)
 - [x] [2023-11-18: Frequency of the Most Frequent Element](/questions/2023-11-18_Frequency-of-the-Most-Frequent-Element/)
+- [x] [2023-11-19: Reduction Operations to Make the Array Elements Equalt](/questions/2023-11-19_Reduction-Operations-to-Make-the-Array-Elements-Equal/)
 - ...
 
 ## License 📄
@@ -60,4 +61,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-11-18` 📆
+Last Updated: `2023-11-19` 📆
