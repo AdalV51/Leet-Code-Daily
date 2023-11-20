@@ -33,13 +33,7 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 
 Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
-- [x] [2023-11-13: Sort Vowels in a String](/questions/2023-11-13_Sort-Vowels-in-a-String/)
-- [x] [2023-11-14: Unique Length-3 Palindromic Subsequences](/questions/2023-11-14_Unique-Length-3-Palindromic-Subsequences/)
-- [x] [2023-11-15: Maximum Element After Decreasing and Rearranging](/questions/2023-11-15_Maximum-Element-After-Decreasing-and-Rearranging/)
-- [x] [2023-11-16: Find Unique Binary String](/questions/2023-11-16_Find-Unique-Binary-String/)
-- [x] [2023-11-17: Minimize Maximum Pair Sum in Array](/questions/2023-11-17_Minimize-Maximum-Pair-Sum-in-Array/)
-- [x] [2023-11-18: Frequency of the Most Frequent Element](/questions/2023-11-18_Frequency-of-the-Most-Frequent-Element/)
-- [x] [2023-11-19: Reduction Operations to Make the Array Elements Equalt](/questions/2023-11-19_Reduction-Operations-to-Make-the-Array-Elements-Equal/)
+- [x] [2023-11-20: Minimum Amount of Time to Collect Garbage](/questions/2023-11-20_Minimum-Amount-of-Time-to-Collect-Garbage/)
 - ...
 
 ## License 📄
@@ -61,4 +55,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-11-19` 📆
+Last Updated: `2023-11-20` 📆
