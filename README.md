@@ -35,6 +35,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 
 - [x] [2023-11-20: Minimum Amount of Time to Collect Garbage](/questions/2023-11-20_Minimum-Amount-of-Time-to-Collect-Garbage/)
 - [x] [2023-11-21: Count Nice Pairs in an Array](/questions/2023-11-21_Count-Nice-Pairs-in-an-Array/)
+- [x] [2023-11-22: Diagonal Traverse II](/questions/2023-11-22_Diagonal-Traverse-II/)
 - ...
 
 ## License 📄
@@ -56,4 +57,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-11-21` 📆
+Last Updated: `2023-11-22` 📆
