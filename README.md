@@ -38,6 +38,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2023-11-22: Diagonal Traverse II](/questions/2023-11-22_Diagonal-Traverse-II/)
 - [x] [2023-11-23: Arithmetic Subarrays](/questions/2023-11-23_Arithmetic-Subarrays/)
 - [x] [2023-11-24: Maximum Number of Coins You Can Get](/questions/2023-11-24_Maximum-Number-of-Coins-You-Can-Get/)
+- [x] [2023-11-25: Sum of Absolute Differences in a Sorted Array](/questions/2023-11-25_Sum-of-Absolute-Differences-in-a-Sorted-Array/)
 - ...
 
 ## License 📄
@@ -59,4 +60,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-11-24` 📆
+Last Updated: `2023-11-25` 📆
