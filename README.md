@@ -36,6 +36,10 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2023-11-27: Knight Dialer](/questions/2023-11-27_Knight-Dialer/)
 - ...
 
+## How to use the Web Scraper tool?
+
+Please refer to this [following file for complete instructions](WEB_SCRAPER.md)
+
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
