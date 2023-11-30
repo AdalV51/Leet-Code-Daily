@@ -36,6 +36,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2023-11-27: Knight Dialer](/questions/2023-11-27_Knight-Dialer/)
 - [x] [2023-11-28: Number of Ways to Divide a Long Corridor](/questions/2023-11-28_Number-of-Ways-to-Divide-a-Long-Corridor/)
 - [x] [2023-11-29: Number of 1 Bits](/questions/2023-11-29_Number-of-1-Bits/)
+- [x] [2023-11-30: Minimum One Bit Operations to Make Integers Zero](/questions/2023-11-30_Minimum-One-Bit-Operations-to-Make-Integers-Zero/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -61,4 +62,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-11-29` 📆
+Last Updated: `2023-11-30` 📆
