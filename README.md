@@ -33,7 +33,8 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 
 Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
-- [x] [2023-12-04: Largest 3-Same-Digit Number in String](/questions/2023-12-04_Largest-3-Same-Digit-Number-in-String//)
+- [x] [2023-12-04: Largest 3-Same-Digit Number in String](/questions/2023-12-04_Largest-3-Same-Digit-Number-in-String/)
+- [x] [2023-12-05: Count of Matches in Tournament](/questions/2023-12-05_Count-of-Matches-in-Tournament/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -59,4 +60,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-12-04` 📆
+Last Updated: `2023-12-05` 📆
