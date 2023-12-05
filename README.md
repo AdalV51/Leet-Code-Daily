@@ -39,6 +39,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2023-11-30: Minimum One Bit Operations to Make Integers Zero](/questions/2023-11-30_Minimum-One-Bit-Operations-to-Make-Integers-Zero/)
 - [x] [2023-12-01: Check If Two String Arrays are Equivalent](/questions/2023-12-01_Check-If-Two-String-Arrays-are-Equivalent/)
 - [x] [2023-12-02: Find Words That Can Be Formed by Characters](/questions/2023-12-02_Find-Words-That-Can-Be-Formed-by-Characters/)
+- [x] [2023-12-03: Minimum Time Visiting All Points](/questions/2023-12-03_Minimum-Time-Visiting-All-Points/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -64,4 +65,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-12-01` 📆
+Last Updated: `2023-12-03` 📆
