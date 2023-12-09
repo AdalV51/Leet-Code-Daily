@@ -38,6 +38,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2023-12-06: Calculate Money in Leetcode Bank](/questions/2023-12-06_Calculate-Money-in-Leetcode-Bank/)
 - [x] [2023-12-07: Largest Odd Number in String](/questions/2023-12-07_Largest-Odd-Number-in-String/)
 - [x] [2023-12-08: Construct String from Binary Tree](/questions/2023-12-08_Construct-String-from-Binary-Tree/)
+- [x] [2023-12-09: Binary Tree Inorder Traversal](/questions/2023-12-09_Binary-Tree-Inorder-Traversal/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -63,4 +64,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-12-08` 📆
+Last Updated: `2023-12-09` 📆
