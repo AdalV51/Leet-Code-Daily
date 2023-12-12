@@ -34,6 +34,7 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
 - [x] [2023-12-11: Element Appearing More Than 25% In Sorted Array](/questions/2023-12-11_Element-Appearing-More-Than-25%25-In-Sorted-Array/)
+- [x] [2023-12-12: Maximum Product of Two Elements in an Array](/questions/2023-12-12_Maximum-Product-of-Two-Elements-in-an-Array/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -59,4 +60,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-12-11` 📆
+Last Updated: `2023-12-12` 📆
