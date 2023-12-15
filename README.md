@@ -37,6 +37,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2023-12-12: Maximum Product of Two Elements in an Array](/questions/2023-12-12_Maximum-Product-of-Two-Elements-in-an-Array/)
 - [x] [2023-12-13: Special Positions in a Binary Matrix](/questions/2023-12-13_Special-Positions-in-a-Binary-Matrix/)
 - [x] [2023-12-14: Difference Between Ones and Zeros in Row and Column](/questions/2023-12-14_Difference-Between-Ones-and-Zeros-in-Row-and-Column/)
+- [x] [2023-12-15: Destination City](/questions/2023-12-15_Destination-City/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -62,4 +63,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-12-14` 📆
+Last Updated: `2023-12-15` 📆
