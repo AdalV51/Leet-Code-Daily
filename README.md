@@ -38,7 +38,8 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2023-12-13: Special Positions in a Binary Matrix](/questions/2023-12-13_Special-Positions-in-a-Binary-Matrix/)
 - [x] [2023-12-14: Difference Between Ones and Zeros in Row and Column](/questions/2023-12-14_Difference-Between-Ones-and-Zeros-in-Row-and-Column/)
 - [x] [2023-12-15: Destination City](/questions/2023-12-15_Destination-City/)
-- [x] [2023-12-15: Valid Anagram](/questions/2023-12-16_Valid-Anagram/)
+- [x] [2023-12-16: Valid Anagram](/questions/2023-12-16_Valid-Anagram/)
+- [x] [2023-12-17: Design a Food Rating System](/questions/2023-12-17_Design-a-Food-Rating-System/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -64,4 +65,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-12-16` 📆
+Last Updated: `2023-12-17` 📆
