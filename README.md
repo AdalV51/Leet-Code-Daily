@@ -34,6 +34,7 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
 - [x] [2023-12-18: Maximum Product Difference Between Two Pairs](/questions/2023-12-18_Maximum-Product-Difference-Between-Two-Pairs/)
+- [x] [2023-12-19: Image Smoother](/questions/2023-12-19_Image-Smoother/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -59,4 +60,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-12-18` 📆
+Last Updated: `2023-12-19` 📆
