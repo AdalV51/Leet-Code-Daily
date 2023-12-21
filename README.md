@@ -36,6 +36,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2023-12-18: Maximum Product Difference Between Two Pairs](/questions/2023-12-18_Maximum-Product-Difference-Between-Two-Pairs/)
 - [x] [2023-12-19: Image Smoother](/questions/2023-12-19_Image-Smoother/)
 - [x] [2023-12-20: Buy Two Chocolates](/questions/2023-12-20_Buy-Two-Chocolates/)
+- [x] [2023-12-21: Widest Vertical Area Between Two Points Containing No Points](/questions/2023-12-21_Widest-Vertical-Area-Between-Two-Points-Containing-No-Points/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -61,4 +62,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-12-20` 📆
+Last Updated: `2023-12-21` 📆
