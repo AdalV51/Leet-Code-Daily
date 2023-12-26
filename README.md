@@ -33,13 +33,7 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 
 Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
-- [x] [2023-12-18: Maximum Product Difference Between Two Pairs](/questions/2023-12-18_Maximum-Product-Difference-Between-Two-Pairs/)
-- [x] [2023-12-19: Image Smoother](/questions/2023-12-19_Image-Smoother/)
-- [x] [2023-12-20: Buy Two Chocolates](/questions/2023-12-20_Buy-Two-Chocolates/)
-- [x] [2023-12-21: Widest Vertical Area Between Two Points Containing No Points](/questions/2023-12-21_Widest-Vertical-Area-Between-Two-Points-Containing-No-Points/)
-- [x] [2023-12-22: Maximum Score After Splitting a String](/questions/2023-12-22_Maximum-Score-After-Splitting-a-String/)
-- [x] [2023-12-23: Path Crossing](/questions/2023-12-23_Path-Crossing/)
-- [x] [2023-12-24: Minimum Changes To Make Alternating Binary String](/questions/2023-12-24_Minimum-Changes-To-Make-Alternating-Binary-String/)
+- [x] [2023-12-25: Decode Ways](/questions/2023-12-25_Decode-Ways/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -65,4 +59,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-12-24` 📆
+Last Updated: `2023-12-25` 📆
