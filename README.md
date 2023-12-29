@@ -37,6 +37,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2023-12-26: Number of Dice Rolls With Target Sum](/questions/2023-12-26_Number-of-Dice-Rolls-With-Target-Sum/)
 - [x] [2023-12-27: Minimum Time to Make Rope Colorful](/questions/2023-12-27_Minimum-Time-to-Make-Rope-Colorful/)
 - [x] [2023-12-28: String Compression II](/questions/2023-12-28_String-Compression-II/)
+- [x] [2023-12-29: Minimum Difficulty of a Job Schedule](/questions/2023-12-29_Minimum-Difficulty-of-a-Job-Schedule/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -62,4 +63,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-12-28` 📆
+Last Updated: `2023-12-29` 📆
