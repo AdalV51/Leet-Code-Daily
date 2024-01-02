@@ -33,13 +33,7 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 
 Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
-- [x] [2023-12-25: Decode Ways](/questions/2023-12-25_Decode-Ways/)
-- [x] [2023-12-26: Number of Dice Rolls With Target Sum](/questions/2023-12-26_Number-of-Dice-Rolls-With-Target-Sum/)
-- [x] [2023-12-27: Minimum Time to Make Rope Colorful](/questions/2023-12-27_Minimum-Time-to-Make-Rope-Colorful/)
-- [x] [2023-12-28: String Compression II](/questions/2023-12-28_String-Compression-II/)
-- [x] [2023-12-29: Minimum Difficulty of a Job Schedule](/questions/2023-12-29_Minimum-Difficulty-of-a-Job-Schedule/)
-- [x] [2023-12-30: Redistribute Characters to Make All Strings Equal](/questions/2023-12-30_Redistribute-Characters-to-Make-All-Strings-Equal/)
-- [x] [2023-12-31: Largest Substring Between Two Equal Characters](/questions/2023-12-31_Largest-Substring-Between-Two-Equal-Characters/)
+- [x] [2024-01-01: Assign Cookies](/questions/2024-01-01_Assign-Cookies/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -65,4 +59,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2023-12-30` 📆
+Last Updated: `2024-01-01` 📆
