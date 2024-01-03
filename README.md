@@ -35,6 +35,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 
 - [x] [2024-01-01: Assign Cookies](/questions/2024-01-01_Assign-Cookies/)
 - [x] [2024-01-02: Convert an Array Into a 2D Array With Conditions](/questions/2024-01-02_Convert-an-Array-Into-a-2D-Array-With-Conditions/)
+- [x] [2024-01-03: Number of Laser Beams in a Bank](/questions/2024-01-03_Number-of-Laser-Beams-in-a-Bank/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -60,4 +61,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-02` 📆
+Last Updated: `2024-01-03` 📆
