@@ -37,6 +37,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2024-01-02: Convert an Array Into a 2D Array With Conditions](/questions/2024-01-02_Convert-an-Array-Into-a-2D-Array-With-Conditions/)
 - [x] [2024-01-03: Number of Laser Beams in a Bank](/questions/2024-01-03_Number-of-Laser-Beams-in-a-Bank/)
 - [x] [2024-01-04: Minimum Number of Operations to Make Array Empty](/questions/2024-01-04_Minimum-Number-of-Operations-to-Make-Array-Empty/)
+- [x] [2024-01-05: Longest Increasing Subsequence](/questions/2024-01-05_Longest-Increasing-Subsequence/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -62,4 +63,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-04` 📆
+Last Updated: `2024-01-05` 📆
