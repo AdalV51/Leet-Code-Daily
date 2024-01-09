@@ -33,13 +33,7 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 
 Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
-- [x] [2024-01-01: Assign Cookies](/questions/2024-01-01_Assign-Cookies/)
-- [x] [2024-01-02: Convert an Array Into a 2D Array With Conditions](/questions/2024-01-02_Convert-an-Array-Into-a-2D-Array-With-Conditions/)
-- [x] [2024-01-03: Number of Laser Beams in a Bank](/questions/2024-01-03_Number-of-Laser-Beams-in-a-Bank/)
-- [x] [2024-01-04: Minimum Number of Operations to Make Array Empty](/questions/2024-01-04_Minimum-Number-of-Operations-to-Make-Array-Empty/)
-- [x] [2024-01-05: Longest Increasing Subsequence](/questions/2024-01-05_Longest-Increasing-Subsequence/)
-- [x] [2024-01-06: Maximum Profit in Job Scheduling](/questions/2024-01-06_Maximum-Profit-in-Job-Scheduling/)
-- [x] [2024-01-07: Maximum Profit in Job Scheduling](/questions/2024-01-07_Arithmetic-Slices-II---Subsequence/)
+- [x] [2024-01-08: Range Sum of BST](/questions/2024-01-08_Range-Sum-of-BST/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -65,4 +59,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-07` 📆
+Last Updated: `2024-01-08` 📆
