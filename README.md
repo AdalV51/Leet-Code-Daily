@@ -35,6 +35,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 
 - [x] [2024-01-08: Range Sum of BST](/questions/2024-01-08_Range-Sum-of-BST/)
 - [x] [2024-01-09: Leaf-Similar Trees](/questions/2024-01-09_Leaf-Similar-Trees/)
+- [x] [2024-01-10: Amount of Time for Binary Tree to Be Infected](/questions/2024-01-10_Amount-of-Time-for-Binary-Tree-to-Be-Infected/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -60,4 +61,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-09` 📆
+Last Updated: `2024-01-10` 📆
