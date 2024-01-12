@@ -37,6 +37,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2024-01-09: Leaf-Similar Trees](/questions/2024-01-09_Leaf-Similar-Trees/)
 - [x] [2024-01-10: Amount of Time for Binary Tree to Be Infected](/questions/2024-01-10_Amount-of-Time-for-Binary-Tree-to-Be-Infected/)
 - [x] [2024-01-11: Maximum Difference Between Node and Ancestor](/questions/2024-01-11_Maximum-Difference-Between-Node-and-Ancestor/)
+- [x] [2024-01-12: Determine if String Halves Are Alike](/questions/2024-01-12_Determine-if-String-Halves-Are-Alike/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -62,4 +63,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-11` 📆
+Last Updated: `2024-01-12` 📆
