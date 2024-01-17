@@ -39,6 +39,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2024-01-11: Maximum Difference Between Node and Ancestor](/questions/2024-01-11_Maximum-Difference-Between-Node-and-Ancestor/)
 - [x] [2024-01-12: Determine if String Halves Are Alike](/questions/2024-01-12_Determine-if-String-Halves-Are-Alike/)
 - [x] [2024-01-13: Minimum Number of Steps to Make Two Strings Anagram](/questions/2024-01-13_Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram/)
+- [x] [2024-01-14: Determine if Two Strings Are Close](/questions/2024-01-14_Determine-if-Two-Strings-Are-Close/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -64,4 +65,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-13` 📆
+Last Updated: `2024-01-14` 📆
