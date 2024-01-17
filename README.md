@@ -33,13 +33,7 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 
 Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
-- [x] [2024-01-08: Range Sum of BST](/questions/2024-01-08_Range-Sum-of-BST/)
-- [x] [2024-01-09: Leaf-Similar Trees](/questions/2024-01-09_Leaf-Similar-Trees/)
-- [x] [2024-01-10: Amount of Time for Binary Tree to Be Infected](/questions/2024-01-10_Amount-of-Time-for-Binary-Tree-to-Be-Infected/)
-- [x] [2024-01-11: Maximum Difference Between Node and Ancestor](/questions/2024-01-11_Maximum-Difference-Between-Node-and-Ancestor/)
-- [x] [2024-01-12: Determine if String Halves Are Alike](/questions/2024-01-12_Determine-if-String-Halves-Are-Alike/)
-- [x] [2024-01-13: Minimum Number of Steps to Make Two Strings Anagram](/questions/2024-01-13_Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram/)
-- [x] [2024-01-14: Determine if Two Strings Are Close](/questions/2024-01-14_Determine-if-Two-Strings-Are-Close/)
+- [x] [2024-01-15: Find Players With Zero or One Losses](/questions/2024-01-15_Find-Players-With-Zero-or-One-Losses/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -65,4 +59,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-14` 📆
+Last Updated: `2024-01-15` 📆
