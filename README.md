@@ -36,6 +36,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2024-01-15: Find Players With Zero or One Losses](/questions/2024-01-15_Find-Players-With-Zero-or-One-Losses/)
 - [x] [2024-01-16: Insert Delete GetRandom O(1)](/questions/2024-01-16_Insert-Delete-GetRandom-O(1)/)
 - [x] [2024-01-17: Unique Number of Occurrences](/questions/2024-01-17_Unique-Number-of-Occurrences/)
+- [x] [2024-01-18: Climbing Stairs](/questions/2024-01-18_Climbing-Stairs/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -61,4 +62,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-17` 📆
+Last Updated: `2024-01-18` 📆
