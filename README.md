@@ -37,6 +37,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2024-01-16: Insert Delete GetRandom O(1)](/questions/2024-01-16_Insert-Delete-GetRandom-O(1)/)
 - [x] [2024-01-17: Unique Number of Occurrences](/questions/2024-01-17_Unique-Number-of-Occurrences/)
 - [x] [2024-01-18: Climbing Stairs](/questions/2024-01-18_Climbing-Stairs/)
+- [x] [2024-01-19: Minimum Falling Path Sum](/questions/2024-01-19_Minimum-Falling-Path-Sum/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -62,4 +63,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-18` 📆
+Last Updated: `2024-01-19` 📆
