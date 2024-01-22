@@ -33,13 +33,7 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 
 Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
-- [x] [2024-01-15: Find Players With Zero or One Losses](/questions/2024-01-15_Find-Players-With-Zero-or-One-Losses/)
-- [x] [2024-01-16: Insert Delete GetRandom O(1)](/questions/2024-01-16_Insert-Delete-GetRandom-O(1)/)
-- [x] [2024-01-17: Unique Number of Occurrences](/questions/2024-01-17_Unique-Number-of-Occurrences/)
-- [x] [2024-01-18: Climbing Stairs](/questions/2024-01-18_Climbing-Stairs/)
-- [x] [2024-01-19: Minimum Falling Path Sum](/questions/2024-01-19_Minimum-Falling-Path-Sum/)
-- [x] [2024-01-20: Sum of Subarray Minimums](/questions/2024-01-20_Sum-of-Subarray-Minimums/)
-- [x] [2024-01-21: House Robber](/questions/2024-01-21_House-Robber/)
+- [x] [2024-01-22: Set Mismatch](/questions/2024-01-22_Set-Mismatch/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -65,4 +59,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-21` 📆
+Last Updated: `2024-01-22` 📆
