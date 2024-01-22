@@ -39,6 +39,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2024-01-18: Climbing Stairs](/questions/2024-01-18_Climbing-Stairs/)
 - [x] [2024-01-19: Minimum Falling Path Sum](/questions/2024-01-19_Minimum-Falling-Path-Sum/)
 - [x] [2024-01-20: Sum of Subarray Minimums](/questions/2024-01-20_Sum-of-Subarray-Minimums/)
+- [x] [2024-01-21: House Robber](/questions/2024-01-21_House-Robber/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -64,4 +65,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-20` 📆
+Last Updated: `2024-01-21` 📆
