@@ -34,6 +34,7 @@ Solutions are primarily written in Python 🐍. Occasionally, solutions in other
 Below is a list of solved problems **this week**. This list will be updated daily as new solutions are added.
 
 - [x] [2024-01-22: Set Mismatch](/questions/2024-01-22_Set-Mismatch/)
+- [x] [2024-01-23: Maximum Length of a Concatenated String with Unique Characters](/questions/2024-01-23_Maximum-Length-of-a-Concatenated-String-with-Unique-Characters/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -59,4 +60,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-22` 📆
+Last Updated: `2024-01-23` 📆
