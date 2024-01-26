@@ -37,6 +37,7 @@ Below is a list of solved problems **this week**. This list will be updated dail
 - [x] [2024-01-23: Maximum Length of a Concatenated String with Unique Characters](/questions/2024-01-23_Maximum-Length-of-a-Concatenated-String-with-Unique-Characters/)
 - [x] [2024-01-24: Pseudo-Palindromic Paths in a Binary Tree](/questions/2024-01-24_Pseudo-Palindromic-Paths-in-a-Binary-Tree/)
 - [x] [2024-01-25: Longest Common Subsequence](/questions/2024-01-25_Longest-Common-Subsequence/)
+- [x] [2024-01-26: Out of Boundary Paths](/questions/2024-01-26_Out-of-Boundary-Paths/)
 - ...
 
 ## How to use the Web Scraper tool?
@@ -62,4 +63,4 @@ For any queries or discussions, you can contact me at:
 
 ---
 
-Last Updated: `2024-01-25` 📆
+Last Updated: `2024-01-26` 📆
